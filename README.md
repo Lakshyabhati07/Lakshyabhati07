@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lakshyabhati07
-- 👀 I’m interested in developing Web Projects
+- 👀 I’m interested in developing Web Projects and problem solving (DSA) 
 - 🌱 I’m currently learning App development
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects
 - 📫 How to reach me - social links (LinkedIn,Instagram,Discord,etc.)
